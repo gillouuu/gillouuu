@@ -19,7 +19,8 @@ Si vous souhaitez me contacter, vous pouvez le faire via ces différents moyens 
 
 Par mail : corentingilles81@gmail.com
 
-[LinkedIn](https://www.linkedin.com/in/corentin-gilles-bb25961b7/)
+[LinkedIn](https://www.linkedin.com/in/corentin-gilles-bb25961b7/) ![image](https://github.com/gillouuu/gillouuu/assets/152622879/f601e1c7-251b-4aca-b3c9-5a38d5884f4d)
+
 
   
 
