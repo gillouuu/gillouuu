@@ -2,9 +2,9 @@
 
 #### Voici mon Github qui retrace mes différents projets réalisés durant mon parcours
 
-Je m'appelle Corentin Gilles, j'ai 20 ans, et je suis actuellement en première année à l'IA School
+Je m'appelle Corentin Gilles, j'ai 22 ans, et je suis actuellement en dernière année à l'IA School
 
-En parallèle, je suis aussi en alternance à Delhom Accoustique en tant que Data Analyst
+En parallèle, je suis aussi en alternance à Delhom Accoustique au sein du pôle R&D
 
 Dans ce cadre, je réalise des travaux de recherches pour déveloper des codes SQL et Python visant à l'administration de base de données
 
